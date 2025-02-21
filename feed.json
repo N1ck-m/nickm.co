@@ -1,0 +1,28 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Nick Mole",
+	"icon": "https://micro.blog/nickmole/avatar.jpg",
+	"home_page_url": "https://nickm.co/",
+	"feed_url": "https://nickm.co/feed.json",
+	"items": [
+		
+			{
+				"id": "http://nickmole.micro.blog/2025/02/20/montgomery-avenue-in-bethesda-has.html",
+				
+				"content_html": "<p>Montgomery Avenue in Bethesda has one of the best designed cycletrack/bus stop combos in the DMV (just needs a bus shelter) 🚲</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Montgomery Avenue in Bethesda has one of the best designed cycletrack/bus stop combos in the DMV (just needs a bus shelter) 🚲\n\n<img src=\"uploads/2025/image.jpg\" width=\"600\" height=\"450\" alt=\"A bike lane on a city street is marked with directional arrows and bicycle symbols.\">\n",
+				"date_published": "2025-02-20T21:50:15-05:00",
+				"url": "https://nickm.co/2025/02/20/montgomery-avenue-in-bethesda-has.html",
+				"tags": ["Micropost","Biking","Maryland"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2025/02/19/my-fav-electrical-box-in.html",
+				
+				"content_html": "<p>My fav electrical box in #DC 🐼⚡️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My fav electrical box in #DC 🐼⚡️\n\n<img src=\"uploads/2025/99520ae43e3a485390f6db65f4271cfc.jpg\" width=\"450\" height=\"600\" alt=\"A gas meter on a sidewalk is painted to look like a panda.\">\n",
+				"date_published": "2025-02-19T20:41:41-05:00",
+				"url": "https://nickm.co/2025/02/19/my-fav-electrical-box-in.html",
+				"tags": ["DC","Micropost"]
+			}
+	]
+}
