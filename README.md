@@ -1,1 +1,1 @@
-nickm.co is my personal online platform -Nick Mole
+nickm.co is my personal online platform
