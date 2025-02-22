@@ -1,1 +1,1 @@
-nickm.co is my personal online platform
+my (Nick) public online platform
