@@ -1,7 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Nick Mole",
-	"icon": "https://micro.blog/nickmole/avatar.jpg",
+	"icon": "https://micro.blog/nickm/avatar.jpg",
 	"home_page_url": "https://nickm.co/",
 	"feed_url": "https://nickm.co/feed.json",
 	"items": [
@@ -55,7 +55,7 @@
 				"id": "http://nickmole.micro.blog/2025/02/22/democracy-is-on-trial-in.html",
 				
 				"content_html": "<p>Democracy is on trial in the world, and it comes down to each individual to stand up and defend it.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Democracy is on trial in the world, and it comes down to each individual to stand up and defend it.\n\n<img src=\"https://cdn.uploads.micro.blog/207576/2025/5083946d61.jpg\" width=\"600\" height=\"450\" alt=\"A group of people gather on the steps of a large monument, holding signs and flags, including one that reads &quot;STOP PUTIN.&quot;\"><img src=\"https://cdn.uploads.micro.blog/207576/2025/c5e846ca4a.jpg\" width=\"600\" height=\"450\" alt=\"People are gathered in a peaceful protest at the National Mall, holding flags and a sign that reads, &quot;IF YOU ARE NEUTRAL OR SILENT IN SITUATIONS OF INJUSTICE, YOU HAVE CHOSEN THE SIDE OF THE OPPRESSOR!!&quot;\"><img src=\"https://cdn.uploads.micro.blog/207576/2025/342b6bb89d.jpg\" width=\"600\" height=\"450\" alt=\"A large crowd with Ukrainian flags gathers in front of the Lincoln Memorial reflecting pool.\"><img src=\"https://cdn.uploads.micro.blog/207576/2025/daf87954da.jpg\" width=\"600\" height=\"450\" alt=\"A crowd of people, many holding Ukrainian and American flags, gather near the reflecting pool with the Washington Monument in the background.\">\n",
+				"content_text": "Democracy is on trial in the world, and it comes down to each individual to stand up and defend it.\n\n<img src=\"https://eu.uploads.micro.blog/207576/2025/5083946d61.jpg\" width=\"600\" height=\"450\" alt=\"A group of people gather on the steps of a large monument, holding signs and flags, including one that reads &quot;STOP PUTIN.&quot;\"><img src=\"https://eu.uploads.micro.blog/207576/2025/c5e846ca4a.jpg\" width=\"600\" height=\"450\" alt=\"People are gathered in a peaceful protest at the National Mall, holding flags and a sign that reads, &quot;IF YOU ARE NEUTRAL OR SILENT IN SITUATIONS OF INJUSTICE, YOU HAVE CHOSEN THE SIDE OF THE OPPRESSOR!!&quot;\"><img src=\"https://eu.uploads.micro.blog/207576/2025/342b6bb89d.jpg\" width=\"600\" height=\"450\" alt=\"A large crowd with Ukrainian flags gathers in front of the Lincoln Memorial reflecting pool.\"><img src=\"https://eu.uploads.micro.blog/207576/2025/daf87954da.jpg\" width=\"600\" height=\"450\" alt=\"A crowd of people, many holding Ukrainian and American flags, gather near the reflecting pool with the Washington Monument in the background.\">\n",
 				"date_published": "2025-02-22T19:17:02-04:00",
 				"url": "https://nickm.co/2025/02/22/democracy-is-on-trial-in.html",
 				"tags": ["DC","Micropost"]
