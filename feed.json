@@ -7,49 +7,146 @@
 	"items": [
 		
 			{
-				"id": "http://nickmole.micro.blog/2025/04/22/happy-earth-day-its-not.html",
-				
-				"content_html": "<p>Happy Earth Day\nit’s not too late\nApril 27, 2017 • The People’s Climate March</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Happy Earth Day\nit’s not too late\nApril 27, 2017 • The People’s Climate March\n\n<img src=\"uploads/2025/0fe7c2df8f.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2025/798641e363.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2025/e9021e56e2.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2025/a016dd1cee.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-04-22T22:59:37-04:00",
-				"url": "https://nickm.co/2025/04/22/happy-earth-day-its-not.html",
-				"tags": ["Micropost"]
+				"id": "http://nickmole.micro.blog/2025/05/05/open.html",
+				"title": "Open",
+				"content_html": "<p>📍 NoMa, DC</p>\n<p>📸 3.26.25</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📍 NoMa, DC\n\n📸 3.26.25\n\n<img src=\"uploads/2025/761dc8470d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-05-05T10:06:13-04:00",
+				"url": "https://nickm.co/2025/05/05/open.html",
+				"tags": ["DC"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2025/05/05/wheatpaste-columbia-heights-dc-march.html",
+				"title": "Wheatpaste",
+				"content_html": "<p>📍 Columbia Heights, DC</p>\n<p>📸 3.21.25\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "📍 Columbia Heights, DC\n\n📸 3.21.25\n<img src=\"uploads/2025/d41f38b37d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-05-05T07:50:35-04:00",
+				"url": "https://nickm.co/2025/05/05/wheatpaste-columbia-heights-dc-march.html",
+				"tags": ["DC","Street Art"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2025/05/03/tryst.html",
+				"title": "Tryst",
+				"content_html": "<p><!-- raw HTML omitted -->38.89670, -77.04247<!-- raw HTML omitted --> <!-- raw HTML omitted -->38.89670, -77.04247<!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&ll=38.89670%2C-77.04247&z=18\" target=\"_blank\">38.89670, -77.04247</a> <a href=\"https://maps.app.goo.gl/NzUe5JiH5kRMnzyQ7?g_st=ic\" target=\"_blank\">38.89670, -77.04247</a>\n\n<img src=\"uploads/2025/ef67a8c8fa.jpg\" width=\"600\" height=\"450\" alt=\"A large crowd gathers on a lively street in front of colorful rowhouses and popular establishments like Tryst Coffeehouse and The Diner in Washington, DC’s Adams Morgan neighborhood during a street festival or event.\"><img src=\"uploads/2025/04caba3a5a.jpg\" width=\"600\" height=\"450\" alt=\"A large crowd gathers on a lively street in front of colorful rowhouses and popular establishments like Tryst Coffeehouse and The Diner in Washington, DC’s Adams Morgan neighborhood during a street festival or event.\"><img src=\"uploads/2025/6fdfa15535.jpg\" width=\"600\" height=\"450\" alt=\"A dense crowd gathers outside Tryst Coffeehouse during Adams Morgan PorchFest in Washington, DC, with people mingling under red umbrellas and enjoying the festive atmosphere in front of the mural-covered building.\"><img src=\"uploads/2025/9b7438785d.jpg\" width=\"450\" height=\"600\" alt=\"A large crowd gathers on a lively street in front of colorful rowhouses and popular establishments like Tryst Coffeehouse and The Diner in Washington, DC’s Adams Morgan neighborhood during a street festival or event.\">\n",
+				"date_published": "2025-05-03T17:20:00-04:00",
+				"url": "https://nickm.co/2025/05/03/tryst.html",
+				"tags": ["DC","iPhone 14","Concert","Georeferenced","Crowd","Digital"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2025/05/03/adams-morgan-porchfest-panorama.html",
+				"title": "Adams Morgan Porchfest ‘25 - 18th Street Panorama",
+				"content_html": "<p><!-- raw HTML omitted --> 38.92180, -77.04238 <!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://www.openstreetmap.org/?mlat= 38.92180&mlon=-77.04238#map=16/38.92180/-77.04238\" target=\"_blank\"> 38.92180, -77.04238 </a>\n\n<img src=\"uploads/2025/9b15809dd5.jpg\" width=\"600\" height=\"195\" alt=\"A large crowd of people fills a bustling street lined with shops under a partly cloudy sky.\">\n",
+				"date_published": "2025-05-03T16:51:00-04:00",
+				"url": "https://nickm.co/2025/05/03/adams-morgan-porchfest-panorama.html",
+				"tags": ["DC","iPhone 14","Concert","Georeferenced","Panorama"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2025/05/01/occidental-picket.html",
+				"title": "Occidental Picket",
+				"content_html": "<p><!-- raw HTML omitted -->38.89670, -77.04247<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&ll=38.89670%2C-77.04247&z=18\" target=\"_blank\">38.89670, -77.04247</a>\n\n<img src=\"uploads/2025/8fd8fee471.jpg\" width=\"600\" height=\"450\" alt=\"A crowd of people wearing red, holding signs and banners, walk in a picket line near a large building and American flags.\">\n",
+				"date_published": "2025-05-01T18:47:00-04:00",
+				"url": "https://nickm.co/2025/05/01/occidental-picket.html",
+				"tags": ["DC","iPhone 14","Signs and Posters","Georeferenced","Demonstration","May Day"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2025/05/01/nadine-seiler-at-may-day.html",
+				"title": "Nadine Seiler at May Day",
+				"content_html": "<p><!-- raw HTML omitted -->38.89583, -77.03143<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&ll=38.89583%2C-77.03143000000001&z=18\" target=\"_blank\">38.89583, -77.03143</a>\n\n<img src=\"https://eu.uploads.micro.blog/207576/2025/1a68f8c42e.jpg\" width=\"450\" height=\"600\" alt=\"A person is holding a large sign reading Tyranny or Revolution at a public gathering with people in the background.\">\n",
+				"date_published": "2025-05-01T18:41:00-04:00",
+				"url": "https://nickm.co/2025/05/01/nadine-seiler-at-may-day.html",
+				"tags": ["DC","iPhone 14","Signs and Posters","Georeferenced","Demonstration","May Day","Portrait","Crowd"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2025/05/01/solidarity.html",
+				"title": "SOLIDARITY",
+				"content_html": "<p><!-- raw HTML omitted -->38.89597, -77.03116<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&ll=38.89597%2C-77.03116&z=17\" target=\"_blank\">38.89597, -77.03116</a>\n\n<img src=\"https://eu.uploads.micro.blog/207576/2025/4f394f5ed7.jpg\" width=\"600\" height=\"450\" alt=\"People are holding a large red banner with the word 'SOLIDARITY' during an outdoor gathering.\">\n",
+				"date_published": "2025-05-01T18:06:00-04:00",
+				"url": "https://nickm.co/2025/05/01/solidarity.html",
+				"tags": ["DC","iPhone 14","Signs and Posters","Georeferenced","May Day"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2025/04/25/bloody-netanyahu.html",
+				"title": "Bloody Netanyahu",
+				"content_html": "<p><!-- raw HTML omitted -->38.89607, -77.04670<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&femb=1&ll=38.89607%2C-77.04669999999999&z=18\" target=\"_blank\">38.89607, -77.04670</a>\n\n<img src=\"https://eu.uploads.micro.blog/207576/2025/4dc2168f13.jpg\" width=\"600\" height=\"480\" alt=\"A group of protesters is holding signs and banners supporting Gaza, with some participants wearing keffiyehs and holding large cutouts.\">\n",
+				"date_published": "2025-04-25T18:28:00-04:00",
+				"url": "https://nickm.co/2025/04/25/bloody-netanyahu.html",
+				"tags": ["DC","iPhone 14","Signs and Posters","Georeferenced","Demonstration","Crowd","Digital","Palestine"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2025/04/05/bloody-trump-hands.html",
+				"title": "Bloody Trump Hands",
+				"content_html": "<p><!-- raw HTML omitted -->38.88762, -77.02856<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&femb=1&ll=38.88762%2C-77.02856&z=18\" target=\"_blank\">38.88762, -77.02856</a>\n\n<img src=\"https://eu.uploads.micro.blog/207576/2025/0a3cded792.jpg\" width=\"600\" height=\"480\" alt=\"A group of protesters is marching with banners and a large puppet depicting Donald Trump in a suit with blood dripping from his hands.\">\n",
+				"date_published": "2025-04-05T16:27:00-04:00",
+				"url": "https://nickm.co/2025/04/05/bloody-trump-hands.html",
+				"tags": ["DC","iPhone 14","Signs and Posters","Georeferenced","Demonstration","Crowd"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2025/03/26/mural-behind-a-demolition.html",
+				"title": "Mural Behind a Demolition",
+				"content_html": "<p><!-- raw HTML omitted -->38.90564, -77.00823<!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&femb=1&ll=38.90564%2C-77.00823&z=18\" target=\"_blank\">38.90564, -77.00823</a>\n\n<img src=\"https://eu.uploads.micro.blog/207576/2025/2f6d7f756c.jpg\" width=\"450\" height=\"600\" alt=\"A mural of a woman in a pink dress appears to be floating or falling while holding onto a rope painted on the side of a building against a blue sky with clouds.\"><img src=\"https://eu.uploads.micro.blog/207576/2025/31cb98a523.jpg\" width=\"450\" height=\"600\" alt=\"A mural of two children playing appears on a building wall, surrounded by rubble and construction debris.\"><img src=\"https://eu.uploads.micro.blog/207576/2025/11bd1018d0.jpg\" width=\"450\" height=\"600\" alt=\"A construction site with a fenced-off area is in front of buildings featuring large murals of figures.\">\n",
+				"date_published": "2025-03-26T16:06:00-04:00",
+				"url": "https://nickm.co/2025/03/26/mural-behind-a-demolition.html",
+				"tags": ["DC","Street Art","iPhone 14","Georeferenced"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2025/03/23/free-dc.html",
+				"title": "Free DC",
+				"content_html": "<p><!-- raw HTML omitted -->38.92292, -77.04259<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&femb=1&ll=38.92292%2C-77.04259&z=18\" target=\"_blank\">38.92292, -77.04259</a>\n\n<img src=\"uploads/2025/43441f46f1.jpg\" width=\"450\" height=\"600\" alt=\"A wall covered with colorful posters advocating for Washington, D.C. statehood and self-governance. Prominent messages. The overall theme of the posters is political advocacy for democracy, representation, and home rule in Washington, D.C.\">\n",
+				"date_published": "2025-03-23T18:21:00-04:00",
+				"url": "https://nickm.co/2025/03/23/free-dc.html",
+				"tags": ["DC","Street Art","iPhone 14","Signs and Posters","Georeferenced"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2025/03/23/nadine-seiler-at-black-lives.html",
+				"title": "Nadine Seiler at Black Lives Matter Plaza",
+				"content_html": "<p><!-- raw HTML omitted -->38.90141, -77.03655<!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&femb=1&ll=38.90141%2C-77.03655&z=18\" target=\"_blank\">38.90141, -77.03655</a>\n\n<img src=\"https://eu.uploads.micro.blog/207576/2025/d9ce973e2d.jpg\" width=\"600\" height=\"450\" alt=\"A person is holding a large banner with the text Black Lives Matter and Trump can't erase us in a city street setting surrounded by traffic cones and barriers.\"><img src=\"https://eu.uploads.micro.blog/207576/2025/969c77c509.jpg\" width=\"600\" height=\"450\" alt=\"Two black SUVs are stopped at an intersection with road barriers and buildings in the background.\">\n",
+				"date_published": "2025-03-23T17:34:00-04:00",
+				"url": "https://nickm.co/2025/03/23/nadine-seiler-at-black-lives.html",
+				"tags": ["DC","iPhone 14","Signs and Posters","Georeferenced","Demonstration","Digital","Black Lives Matter","Palestine"]
 			},
 			{
 				"id": "http://nickmole.micro.blog/2025/03/12/having-diverse-transit-mode-options.html",
 				
 				"content_html": "<p>Having diverse transit mode options reduces congestion for everyone and makes a city more vibrant and productive. I took this timelapse a couple hours ago. #bikesky #urbanism #bikedc</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Having diverse transit mode options reduces congestion for everyone and makes a city more vibrant and productive. I took this timelapse a couple hours ago. #bikesky #urbanism #bikedc\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://nickm.co/uploads/2025/b9c06f6212.mp4\" width=\"100%\" height=\"100%\" poster=\"https://nickm.co/uploads/2025/f44f4f2a6c.png\" preload=\"none\"></video>\n",
+				"content_text": "Having diverse transit mode options reduces congestion for everyone and makes a city more vibrant and productive. I took this timelapse a couple hours ago. #bikesky #urbanism #bikedc\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://eu.uploads.micro.blog/207576/2025/b9c06f6212.mp4\" width=\"100%\" height=\"100%\" poster=\"https://nickm.co/uploads/2025/f44f4f2a6c.png\" preload=\"none\"></video>\n",
 				"date_published": "2025-03-12T22:59:37-04:00",
-				"url": "https://nickm.co/2025/03/12/having-diverse-transit-mode-options.html",
-				"tags": ["Micropost"]
+				"url": "https://nickm.co/2025/03/12/having-diverse-transit-mode-options.html"
 			},
 			{
 				"id": "http://nickmole.micro.blog/2025/03/10/rock-creek-park-is-my.html",
 				
 				"content_html": "<p>Rock Creek Park is my happy place #bikesky</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Rock Creek Park is my happy place #bikesky\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://nickm.co/uploads/2025/d5c19cfce4.mp4\" width=\"100%\" height=\"100%\" poster=\"https://nickm.co/uploads/2025/d09d97b16f.png\" preload=\"none\"></video>\n",
+				"content_text": "Rock Creek Park is my happy place #bikesky\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://eu.uploads.micro.blog/207576/2025/d5c19cfce4.mp4\" width=\"100%\" height=\"100%\" poster=\"https://nickm.co/uploads/2025/d09d97b16f.png\" preload=\"none\"></video>\n",
 				"date_published": "2025-03-10T20:53:12-04:00",
 				"url": "https://nickm.co/2025/03/10/rock-creek-park-is-my.html",
-				"tags": ["DC","Micropost","Biking"]
+				"tags": ["DC","Biking"]
 			},
 			{
 				"id": "http://nickmole.micro.blog/2025/03/09/cruising-through-the-magnificent-cycletrack.html",
 				
 				"content_html": "<p>Cruising through the magnificent cycletrack intersection at Woodmont and Bethesda Ave in downtown Bethesda, MD #bikesky</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Cruising through the magnificent cycletrack intersection at Woodmont and Bethesda Ave in downtown Bethesda, MD #bikesky\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://nickm.co/uploads/2025/ea4c7981a9.mp4\" width=\"100%\" height=\"100%\" poster=\"https://nickm.co/uploads/2025/50da0de8ce.png\" preload=\"none\"></video>\n",
+				"content_text": "Cruising through the magnificent cycletrack intersection at Woodmont and Bethesda Ave in downtown Bethesda, MD #bikesky\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://eu.uploads.micro.blog/207576/2025/ea4c7981a9.mp4\" width=\"100%\" height=\"100%\" poster=\"https://nickm.co/uploads/2025/50da0de8ce.png\" preload=\"none\"></video>\n",
 				"date_published": "2025-03-09T16:30:46-04:00",
-				"url": "https://nickm.co/2025/03/09/cruising-through-the-magnificent-cycletrack.html",
-				"tags": ["Micropost"]
+				"url": "https://nickm.co/2025/03/09/cruising-through-the-magnificent-cycletrack.html"
 			},
 			{
 				"id": "http://nickmole.micro.blog/2025/02/26/immaculate-morning-rush-hour-trail.html",
 				
 				"content_html": "<p>Immaculate morning rush hour trail vibes on the MBT☀️🚲 <a href=\"https://bsky.app/hashtag/bikedc\">#bikedc</a> <a href=\"https://bsky.app/hashtag/bikesky\">#bikesky</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Immaculate morning rush hour trail vibes on the MBT☀️🚲 [#bikedc](https://bsky.app/hashtag/bikedc) [#bikesky](https://bsky.app/hashtag/bikesky)\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://nickm.co/uploads/2025/image.mp4\" width=\"100%\" height=\"100%\" poster=\"https://nickm.co/uploads/2025/poster.png\" preload=\"none\"></video>\n",
+				"content_text": "Immaculate morning rush hour trail vibes on the MBT☀️🚲 [#bikedc](https://bsky.app/hashtag/bikedc) [#bikesky](https://bsky.app/hashtag/bikesky)\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://eu.uploads.micro.blog/207576/2025/image.mp4\" width=\"100%\" height=\"100%\" poster=\"https://nickm.co/uploads/2025/poster.png\" preload=\"none\"></video>\n",
 				"date_published": "2025-02-26T12:44:41-04:00",
 				"url": "https://nickm.co/2025/02/26/immaculate-morning-rush-hour-trail.html",
-				"tags": ["DC","Micropost","Biking"]
+				"tags": ["DC","Biking"]
 			},
 			{
 				"id": "http://nickmole.micro.blog/2025/02/24/its-days-like-these-when.html",
@@ -58,7 +155,7 @@
 				"content_text": "It’s days like these when I love my commute, thanks to [@ddotdc.bsky.social](http://ddotdc.bsky.social) and [@bikeshare.bsky.social](http://bikeshare.bsky.social). It’s the dedicated, protected cycle infrastructure that makes bike commuting in DC so great. [#bikedc](https://bsky.app/hashtag/bikedc) [#bikesky](https://bsky.app/hashtag/bikesky)\n\n<img src=\"https://eu.uploads.micro.blog/207576/2025/1a2e40fe5d.jpg\" width=\"600\" height=\"450\" alt=\"A wide, empty road leads towards an overpass under a dramatic sky filled with scattered clouds at sunset.\"><img src=\"https://eu.uploads.micro.blog/207576/2025/9566065fa6.jpg\" width=\"600\" height=\"450\" alt=\"A road with a bike lane is shown, featuring a car waiting at a red traffic light under a cloudy sky.\"><img src=\"https://eu.uploads.micro.blog/207576/2025/e00e687603.jpg\" width=\"600\" height=\"450\" alt=\"A cyclist rides along a designated bike lane on a street lined with cars, trees, and buildings.\"><img src=\"https://eu.uploads.micro.blog/207576/2025/3d0c3dfb15.jpg\" width=\"600\" height=\"449\" alt=\"A city street scene with a person biking past a tree, surrounded by buildings, a grocery store, and a partly cloudy sky.\">\n",
 				"date_published": "2025-02-24T21:06:34-04:00",
 				"url": "https://nickm.co/2025/02/24/its-days-like-these-when.html",
-				"tags": ["DC","Micropost","Biking"]
+				"tags": ["DC","Biking"]
 			},
 			{
 				"id": "http://nickmole.micro.blog/2025/02/22/democracy-is-on-trial-in.html",
@@ -67,16 +164,7 @@
 				"content_text": "Democracy is on trial in the world, and it comes down to each individual to stand up and defend it.\n\n<img src=\"https://eu.uploads.micro.blog/207576/2025/5083946d61.jpg\" width=\"600\" height=\"450\" alt=\"A group of people gather on the steps of a large monument, holding signs and flags, including one that reads &quot;STOP PUTIN.&quot;\"><img src=\"https://eu.uploads.micro.blog/207576/2025/c5e846ca4a.jpg\" width=\"600\" height=\"450\" alt=\"People are gathered in a peaceful protest at the National Mall, holding flags and a sign that reads, &quot;IF YOU ARE NEUTRAL OR SILENT IN SITUATIONS OF INJUSTICE, YOU HAVE CHOSEN THE SIDE OF THE OPPRESSOR!!&quot;\"><img src=\"https://eu.uploads.micro.blog/207576/2025/342b6bb89d.jpg\" width=\"600\" height=\"450\" alt=\"A large crowd with Ukrainian flags gathers in front of the Lincoln Memorial reflecting pool.\"><img src=\"https://eu.uploads.micro.blog/207576/2025/daf87954da.jpg\" width=\"600\" height=\"450\" alt=\"A crowd of people, many holding Ukrainian and American flags, gather near the reflecting pool with the Washington Monument in the background.\">\n",
 				"date_published": "2025-02-22T19:17:02-04:00",
 				"url": "https://nickm.co/2025/02/22/democracy-is-on-trial-in.html",
-				"tags": ["DC","Micropost"]
-			},
-			{
-				"id": "http://nickmole.micro.blog/2025/02/20/montgomery-avenue-in-bethesda-has.html",
-				
-				"content_html": "<p>Montgomery Avenue in Bethesda has one of the best designed cycletrack/bus stop combos in the DMV (just needs a bus shelter) 🚲</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Montgomery Avenue in Bethesda has one of the best designed cycletrack/bus stop combos in the DMV (just needs a bus shelter) 🚲\n\n<img src=\"https://nickmole.micro.blog/uploads/2025/image.jpg\" width=\"600\" height=\"450\" alt=\"A bike lane on a city street is marked with directional arrows and bicycle symbols.\">\n",
-				"date_published": "2025-02-20T22:50:15-04:00",
-				"url": "https://nickm.co/2025/02/20/montgomery-avenue-in-bethesda-has.html",
-				"tags": ["Micropost","Biking","Maryland"]
+				"tags": ["DC"]
 			},
 			{
 				"id": "http://nickmole.micro.blog/2025/02/19/my-fav-electrical-box-in.html",
@@ -85,7 +173,61 @@
 				"content_text": "My fav electrical box in #DC 🐼⚡️\n\n<img src=\"https://nickmole.micro.blog/uploads/2025/99520ae43e3a485390f6db65f4271cfc.jpg\" width=\"450\" height=\"600\" alt=\"A gas meter on a sidewalk is painted to look like a panda.\">\n",
 				"date_published": "2025-02-19T21:41:41-04:00",
 				"url": "https://nickm.co/2025/02/19/my-fav-electrical-box-in.html",
-				"tags": ["DC","Micropost"]
+				"tags": ["DC"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2023/10/20/new-montgomery-ave-cycletrack.html",
+				"title": "New Montgomery Ave Cycletrack",
+				"content_html": "<p><!-- raw HTML omitted -->38.98347, -77.09553<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&femb=1&ll=38.98347%2C-77.09553&z=18\" target=\"_blank\">38.98347, -77.09553</a>\n\n<img src=\"https://eu.uploads.micro.blog/207576/2025/0c322ab6bb.jpg\" width=\"600\" height=\"450\" alt=\"A bicycle lane marked with directional arrows and a cyclist symbol runs alongside a road lined with greenery and buildings.\">\n",
+				"date_published": "2023-10-20T12:19:00-04:00",
+				"url": "https://nickm.co/2023/10/20/new-montgomery-ave-cycletrack.html",
+				"tags": ["Biking","Maryland","iPhone 14","Georeferenced","Digital","Bicycle Infrastructure"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2023/08/05/mount-pleasant-house.html",
+				"title": "Mount Pleasant House",
+				"content_html": "<p><!-- raw HTML omitted -->38.93250, -77.03958<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&femb=1&ll=38.93250%2C-77.03958&z=18\" target=\"_blank\">38.93250, -77.03958</a>\n\n<img src=\"https://eu.uploads.micro.blog/207576/2025/42fdba71f4.jpg\" width=\"600\" height=\"450\" alt=\"An elaborate and colorful house is decorated with patriotic bunting, flags, and a unique tricycle sculpture in the front garden.\">\n",
+				"date_published": "2023-08-05T14:35:00-04:00",
+				"url": "https://nickm.co/2023/08/05/mount-pleasant-house.html",
+				"tags": ["DC","Street Art","iPhone 14","Georeferenced","Digital"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2020/06/30/namaste-no-justice-no-peace.html",
+				"title": "Namaste No Justice No Peace",
+				"content_html": "<p><!-- raw HTML omitted -->38.90155, -77.03654<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&femb=1&ll=38.90155%2C-77.03654&z=18\" target=\"_blank\">38.90155, -77.03654</a>\n\n<img src=\"https://eu.uploads.micro.blog/207576/2025/66b41fd54c.jpg\" width=\"450\" height=\"600\" alt=\"A storefront features artwork depicting space elements and a woman practicing yoga, with messages NAMASTE and NO JUSTICE NO PEACE.\">\n",
+				"date_published": "2020-06-30T19:58:00-04:00",
+				"url": "https://nickm.co/2020/06/30/namaste-no-justice-no-peace.html",
+				"tags": ["DC","Street Art","iPhone 14","Georeferenced","Digital","Black Lives Matter"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2020/06/30/black-medics-lives-matter.html",
+				"title": "Black Medics Lives Matter",
+				"content_html": "<p><!-- raw HTML omitted -->38.90174, -77.03666<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&femb=1&ll=38.90174%2C--77.03666&z=18\" target=\"_blank\">38.90174, -77.03666</a>\n\n<img src=\"uploads/2025/63cc8a0399.jpg\" width=\"450\" height=\"600\" alt=\"A mural on a building features an artwork of a Black medic with the text Black Medics Lives Matter.\">\n",
+				"date_published": "2020-06-30T19:57:00-04:00",
+				"url": "https://nickm.co/2020/06/30/black-medics-lives-matter.html",
+				"tags": ["DC","Street Art","iPhone 14","Georeferenced","Digital","Black Lives Matter"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2020/06/06/clark-university-blm-protest-in.html",
+				"title": "Clark University BLM Protest in the Rain",
+				"content_html": "<p><!-- raw HTML omitted -->42.25018, -71.82222<!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&femb=1&ll=42.25018%2C-71.82222&z=18\" target=\"_blank\">42.25018, -71.82222</a>\n\n<img src=\"uploads/2025/a1c19e9c3f.jpg\" width=\"600\" height=\"450\" alt=\"A large group of people are kneeling in the middle of a wet street during a rainstorm, participating in a protest. Many are raising their fists in solidarity, and some are holding signs. A few individuals hold umbrellas, and one person appears to be filming or photographing the crowd. The protest is taking place in front of a gated area with large trees and a brick building in the background.\"><img src=\"uploads/2025/9f34907d7a.jpg\" width=\"600\" height=\"450\" alt=\"Protesters are sitting and kneeling on the wet pavement in the rain, with many raising fists and holding signs. Two people in high-visibility vests stand in the street, appearing to help manage traffic or safety. Trees and a large institutional building with columns are visible behind the crowd.\"><img src=\"uploads/2025/8de23cdaf5.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: People are gathered on the side of a street in the rain, with a photographer taking pictures and some individuals in yellow vests managing the crosswalk.\">\n",
+				"date_published": "2020-06-06T14:49:00-04:00",
+				"url": "https://nickm.co/2020/06/06/clark-university-blm-protest-in.html",
+				"tags": ["Georeferenced","Demonstration","Crowd","Digital","Black Lives Matter","iPhone 6","Massachusetts"]
+			},
+			{
+				"id": "http://nickmole.micro.blog/2017/04/29/dc-peoples-climate-march.html",
+				"title": "DC People's Climate March",
+				"content_html": "<p><!-- raw HTML omitted -->38.89574, -77.03054<!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1t4o4AN-pOLLGhMIOSOiIzuzOk_CFXy0&femb=1&ll=38.89574%2C-77.03054&z=18\" target=\"_blank\">38.89574, -77.03054</a>\n\n<img src=\"uploads/2025/1947a18149.jpg\" width=\"600\" height=\"428\" alt=\"A large crowd of people is marching in a vibrant, organized protest with banners and flags on Pennsylvania Avenue with the Capitol building in the background.\"><img src=\"uploads/2025/08f2661ebe.jpg\" width=\"394\" height=\"600\" alt=\"A large crowd of people is marching in a vibrant, organized protest with banners and flags on Pennsylvania Avenue with the Capitol building in the background.\"><img src=\"uploads/2025/8fe6c80a41.jpg\" width=\"600\" height=\"394\" alt=\"A large crowd of people is marching in a vibrant, organized protest with banners and flags on Pennsylvania Avenue with the Capitol building in the background.\">\n",
+				"date_published": "2017-04-29T12:00:00-04:00",
+				"url": "https://nickm.co/2017/04/29/dc-peoples-climate-march.html",
+				"tags": ["DC","Signs and Posters","Georeferenced","Demonstration","Crowd","DC People's Climate March","Film"]
 			}
 	]
 }
